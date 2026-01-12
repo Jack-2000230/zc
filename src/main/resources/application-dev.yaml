@@ -1,0 +1,9 @@
+server:
+  port: 8090
+spring:
+  ai:
+    dashscope:
+      api-key: sk-3125ace931b946b4a12e5fc58a824db2
+      chat:
+        options:
+          model: qwen-turbo
